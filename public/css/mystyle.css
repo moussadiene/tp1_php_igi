@@ -1,0 +1,105 @@
+.new-compte {
+    text-align: right;
+}
+
+a {
+    padding: 10px 0px;
+    text-decoration: none;
+}
+
+.error {
+    background-color: rgb(207, 86, 86);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.connect {
+    color: blue;
+    margin: 15px;
+}
+
+body {
+    background-color: blue;
+}
+
+.inscription-form {
+    padding: 30px;
+    margin: 70px 180px;
+    border-radius: 30px;
+}
+
+.index-form {
+    background-color: white;
+    margin: 100px 300px;
+    padding: 30px;
+}
+
+.index-form, .inscription-form {
+    background-color: white;
+}
+
+input, select {
+    width: 100%;
+    height: 35px;
+    margin: 20px 0px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+h2, h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+label {
+    margin: 20px 0px;
+    font-size: 20px;
+}
+
+.index-btn {
+    margin: 10px 0px;
+    background-color: blue;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.inscription-btn {
+    margin: 10px 0px;
+    background-color: blue;
+    /* float: right;
+    margin-bottom: 10px; */
+}
+
+.annuler {
+    background-color: #222;
+}
+
+.inscription-btn, .index-btn, .annuler {
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+span {
+    color: rgb(207, 86, 86);
+}
+
+/* .p {
+    clear: both;
+} */
+
+.p {
+    text-align: right;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    padding: 10px;
+}

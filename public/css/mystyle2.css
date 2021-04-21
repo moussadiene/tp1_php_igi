@@ -1,0 +1,19 @@
+th {
+    padding: 5px 20px;
+}
+
+.delete {
+    background-color: darkred;
+    padding: 5px;
+    color: #FFF;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.delete:hover {
+    background-color: rgb(192, 104, 104);
+}
+
+td {
+    padding: 10px;
+}
